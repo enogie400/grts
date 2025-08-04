@@ -13,7 +13,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-      'service_ruwrqw2', 'template_nmujtpe', form.current, 'Yd69cd1-ank5TaFhkU'
+      'service_ruwrqw2', 'myportfolio', form.current, 'LG-TwzjIUpNJWDGBL'
       )
       .then(
         (result) => {
@@ -99,3 +99,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
