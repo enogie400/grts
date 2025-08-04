@@ -194,7 +194,7 @@ export const content = {
         review:
           "“Working with Enogie Omorogbe was a game changer for our online presence. They took the time to understand our vision and delivered a beautiful, functional website ahead of schedule. We've already seen an increase in traffic and customer inquiries!”",
         img: avatar1,
-        name: "MR ELO ZINO",
+        name: "MR ELOZINO",
       },
       {
         review:
@@ -249,4 +249,5 @@ export const content = {
     text: "All © Copy Right Reserved 2025",
   },
 };
+
 
